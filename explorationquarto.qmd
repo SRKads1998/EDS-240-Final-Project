@@ -1,0 +1,8 @@
+---
+title: "PrelimWork"
+author: "Stephan Kadonoff"
+format: html
+editor: visual
+---
+
+### prelim data loading
